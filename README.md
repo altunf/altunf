@@ -13,7 +13,7 @@
 
 
 
-🌱 I’m currently learning **nodejs**
+
 
 💬 Ask me about **react, javascript**
 
