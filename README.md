@@ -9,7 +9,7 @@ Hello, I'm Fırat. I'm a frontend developer and psychologist who creates/designs
 
 <h4 align="left">Frameworks and Libraries:</h4> React JS, Next JS, .Net (beginner)
 
-<h4 align="left">Frameworks - Libraries:</h4> TailwindCss, Material UI, Styled Components, Bootstrap
+<h4 align="left">Tools:</h4> TailwindCss, Material UI, Styled Components, Bootstrap
 
 
 
