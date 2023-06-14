@@ -5,7 +5,7 @@ Hello, I'm Fırat. I'm a frontend developer and psychologist who creates/designs
 <p align="left">
 </p>
 
-<h4 align="left">Languages:</h4> HTML, CSS, JavaScript, TypeScript, C# (beginner)
+<h4 align="left">Languages:</h4> JavaScript, TypeScript, C# (beginner)
 
 <h4 align="left">Frameworks and Libraries:</h4> React JS, Next JS, .Net (beginner)
 
