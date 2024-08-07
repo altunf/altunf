@@ -7,7 +7,7 @@ Hello, I'm Fırat. I'm a frontend developer and psychologist who creates/designs
 
 <h4 align="left">Languages:</h4> JavaScript, TypeScript
 
-<h4 align="left">Frameworks and Libraries:</h4> React JS, Next JS, Redux Toolkit
+<h4 align="left">Frameworks and Libraries:</h4> React JS, Next JS, Express JS, Redux Toolkit
 
 <h4 align="left">Tools:</h4> TailwindCss, Material UI, Styled Components, Bootstrap, Daisy UI
 
